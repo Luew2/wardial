@@ -1,6 +1,6 @@
 # Wardial
 
-[![task1](https://github.com/Luew2/wardial/actions/workflows/tests-task1.yml/badge.svg?branch=master)](https://github.com/Luew2/wardial/actions/workflows/tests-task1.yml)
+[![task1](https://github.com/Luew2/wardial/actions/workflows/tests-task1.yml/badge.svg)](https://github.com/Luew2/wardial/actions/workflows/tests-task1.yml)
 [![task2](https://github.com/Luew2/wardial/actions/workflows/tests-task2.yml/badge.svg?branch=master)](https://github.com/Luew2/wardial/actions/workflows/tests-task2.yml)
 
 
