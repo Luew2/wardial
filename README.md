@@ -1,7 +1,7 @@
 # Wardial
 
-![](https://github.com/mikeizbicki/wardial/workflows/task1/badge.svg)
-![](https://github.com/mikeizbicki/wardial/workflows/task2/badge.svg)
+[![task1](https://github.com/Luew2/wardial/actions/workflows/tests-task1.yml/badge.svg)](https://github.com/Luew2/wardial/actions/workflows/tests-task1.yml)
+[![task2](https://github.com/Luew2/wardial/actions/workflows/tests-task2.yml/badge.svg)](https://github.com/Luew2/wardial/actions/workflows/tests-task2.yml)
 
 
 **Learning Objectives:**
